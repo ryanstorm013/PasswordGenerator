@@ -36,15 +36,15 @@ To prove that user can choose different character types, pictures are below.
 
 ![Lower Page](ReadMeImages/lowerOnly.png)
 
-**Lowercase only password**
+**Lowercase only Password**
 
 ![Capital Page](ReadMeImages/capitalOnly.png)
 
-**Capital Letters only password**
+**Capital Letters only Password**
 
 ![Number Page](ReadMeImages/numberOnly.png)
 
-**Numbers only password**
+**Numbers only Password**
 
 ![Special Page](ReadMeImages/specialOnly.png)
 
