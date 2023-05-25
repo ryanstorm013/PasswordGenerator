@@ -1,4 +1,4 @@
-# HW3
+# Password Generator
 Password Generator made with Javascript
 
 ## Assignment
